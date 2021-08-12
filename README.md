@@ -1,4 +1,4 @@
-# home-insurance-system
+# Home-insurance-system
 
 Import as Maven project on Eclipse and run on the Tomcat Server.  
 
