@@ -1,6 +1,6 @@
 # Home-insurance-system
 
-Import as Maven project on Eclipse and run on the Tomcat Server.  
+Import as Maven project on Eclipse, do an 'mvn clean install' and run on the Tomcat Server.  
 
 See the PDF document for the screenshots of the different screens in the application.  
 
